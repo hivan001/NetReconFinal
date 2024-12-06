@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnet_recon_libs.a CMakeFiles/net_recon_libs.dir/src/TcpScan.cpp.o
+/usr/bin/ranlib libnet_recon_libs.a

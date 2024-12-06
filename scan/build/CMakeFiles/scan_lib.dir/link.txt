@@ -1,0 +1,2 @@
+/usr/bin/ar qc libscan_lib.a CMakeFiles/scan_lib.dir/src/main.cpp.o CMakeFiles/scan_lib.dir/src/BaseScan.cpp.o CMakeFiles/scan_lib.dir/src/Menu.cpp.o CMakeFiles/scan_lib.dir/src/TcpScan.cpp.o CMakeFiles/scan_lib.dir/src/WriteResults.cpp.o
+/usr/bin/ranlib libscan_lib.a
