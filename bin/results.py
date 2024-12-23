@@ -48,6 +48,7 @@ class Results():
         square_count = 0
 
         data = self.get_results()
+
         for i in data["IPs"]:
             icon = self.get_icon_type(i)
             icon.setScale(0.25)
